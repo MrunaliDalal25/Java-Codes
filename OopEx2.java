@@ -7,6 +7,7 @@
             System.out.println(this.name);
             System.out.println(this.age);
         }
+
     }
         public class OopEx2{
             public static void main(String[] args){
